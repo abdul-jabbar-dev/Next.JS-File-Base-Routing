@@ -7,6 +7,11 @@ const index = () => {
             <h1>
                 This is a Projects
             </h1>
+            <style jsx> {`
+                h1{
+                    text-align:center
+                }
+            `}</style>
         </>
     );
 };
